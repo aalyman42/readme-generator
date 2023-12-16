@@ -27,6 +27,10 @@ clone the repository into a local directory
 
 run 'node index.js' in the terminal
 
+![input sample](./images/Capture.JPG)
+
+![input result](./images/Capture2.JPG)
+
 ## License
 
 MIT License
