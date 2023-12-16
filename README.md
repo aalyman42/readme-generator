@@ -7,8 +7,6 @@ Starting code source: https://github.com/coding-boot-camp/potential-enigma
 
 Github repo: https://github.com/aalyman42/readme-generator
 
-Github deploy: https://aalyman42.github.io/readme-generator/
-
 ## Table of Contents
 
 [Installation](#installation)
@@ -23,7 +21,7 @@ Github deploy: https://aalyman42.github.io/readme-generator/
 
 ## Installation
 
-clone the repository into a directory
+clone the repository into a local directory
 
 ## Usage
 
@@ -35,7 +33,7 @@ MIT License
 
 ## Contributions
 
-N/A
+Please contact before contributing.
 
 ## Tests
 
